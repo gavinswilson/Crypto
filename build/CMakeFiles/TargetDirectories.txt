@@ -1,0 +1,3 @@
+/home/gavinswilson/Code/Crypto/Crypto/build/CMakeFiles/rebuild_cache.dir
+/home/gavinswilson/Code/Crypto/Crypto/build/CMakeFiles/edit_cache.dir
+/home/gavinswilson/Code/Crypto/Crypto/build/CMakeFiles/crypto.dir

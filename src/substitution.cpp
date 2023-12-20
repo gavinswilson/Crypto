@@ -8,7 +8,7 @@ class substitution
     
         substitution()
         {
-            // std::cout << "running constructur" << std::endl;
+            // std::cout << "running constructor" << std::endl;
             offset = 4;
             key = "BCASAKJLEIODFNOENTONG";
         }

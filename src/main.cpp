@@ -1,5 +1,6 @@
 #include <iostream>
 #include "substitution.cpp"
+#include "scytale.cpp"
 
 int main(int argc, char* argv[]) 
 { 
@@ -19,10 +20,13 @@ int main(int argc, char* argv[])
     }
     std::string command = argv[1];
     
-    if (command ==  "sub_code")
+    if (command ==  "scytale")
     {
-        substitution sub_test;
-        sub_test.print_key();
+        scytale scytale_test;
+        scytale_test.set_plaintext("Gav");
+        scytale_test.set_encryptedtext("aGv");
+        scytale_test.print_plaintext();
+        scytale_test.print_encryptedtext();
     }        
     else        
     {        

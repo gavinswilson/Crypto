@@ -11,6 +11,14 @@ iostream
 -
 substitution.cpp
 /home/gavinswilson/Code/Crypto/Crypto/src/substitution.cpp
+scytale.cpp
+/home/gavinswilson/Code/Crypto/Crypto/src/scytale.cpp
+
+/home/gavinswilson/Code/Crypto/Crypto/src/scytale.cpp
+string
+-
+iostream
+-
 
 /home/gavinswilson/Code/Crypto/Crypto/src/substitution.cpp
 string
